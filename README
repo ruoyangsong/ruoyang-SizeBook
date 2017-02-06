@@ -1,0 +1,8 @@
+Please set the emulator ram=512 MB and heap space = 128 MB.
+Otherwise, there may cause "Launch has stopped" issue due to the lack of heap space.
+Or, "emulator window was out of view and was recentered" issue due to the lack of ram.
+
+If the project is not working, please contact me.
+I can demo the project in my lab computer
+
+Thank you!
